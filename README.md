@@ -2,7 +2,7 @@
 
 ## Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArcane120%2FArcaneOpBot&template=https%3A%2F%2Fgithub.com%2FArcane120%2FARCANE-HEROKU)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arcane120/ArcaneOpBot)
 
 
 
